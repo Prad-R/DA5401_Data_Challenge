@@ -6,7 +6,7 @@ The `.ipynb ` file can be found in the root directory under the name:
 - da5401-data-challenge.ipynb
 
 
-The dataset can be found in the `dataset` directory.
+The dataset can be found in the `da5401-2025-data-challenge` directory.
 
 # Problem Statement
 
